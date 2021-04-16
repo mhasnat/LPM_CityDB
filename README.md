@@ -3,6 +3,7 @@ This repository provides the materials to experiment with the **CityDB dataset**
 
 Dataset Download Link: https://drive.google.com/file/d/1iRzLpXs1LeFbttDvJ0Nu_lewPoMollkU/view
 
+The Notebook **LPM_Evaluate_CityDB.ipynb** demonstrate how to evaluate the code for obtaining results on this dataset. We have provided pre-computed CNN features in the file **CityDB_features_VGGS.npz**. You can replace it with your own features and generate results using this notebook.
 
 # Reference: 
 Please use the following reference if you exploit the CityDB dataset in your research. Moreover, you can cite this if you would like to use the evaluation procedures mentioned in this paper.
