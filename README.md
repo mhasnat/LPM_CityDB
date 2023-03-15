@@ -1,7 +1,7 @@
 # LPM_CityDB
 This repository provides the materials to experiment with the **CityDB dataset** for **License Plate Matching (LPM)**
 
-Dataset Download Link: https://drive.google.com/file/d/1iRzLpXs1LeFbttDvJ0Nu_lewPoMollkU/view
+Dataset Download Link: https://drive.google.com/file/d/1WJ2PmAKpCBLFE1rk11k_ZT41ga7-Lm1G/view?usp=share_link
 
 The Notebook **LPM_Evaluate_CityDB.ipynb** demonstrate how to evaluate the code for obtaining results on this dataset. We have provided pre-computed CNN features in the file **CityDB_features_VGGS.npz**. You can replace it with your own features and generate results using this notebook.
 
